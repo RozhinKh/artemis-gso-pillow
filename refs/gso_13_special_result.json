@@ -1,0 +1,130 @@
+{
+  "L_mod2_1023x769_f2": {
+    "checksum": "ba38fbd9793ae0b18339428be682b2c3",
+    "mode": "L",
+    "size": [
+      512,
+      385
+    ]
+  },
+  "L_mod2_1023x769_f3": {
+    "checksum": "f766d44b8c4faa8427e0d5ac9c8554d0",
+    "mode": "L",
+    "size": [
+      341,
+      257
+    ]
+  },
+  "L_mod2_1023x769_f4": {
+    "checksum": "048a6a0617e03999b41f49dfbcb8821c",
+    "mode": "L",
+    "size": [
+      256,
+      193
+    ]
+  },
+  "L_mod2_1023x769_f5": {
+    "checksum": "b6c6bcc858dc7e7382cd77939ff59caa",
+    "mode": "L",
+    "size": [
+      205,
+      154
+    ]
+  },
+  "L_small_7x5_f2": {
+    "checksum": "d807fe991de540dd02a8220fdc890264",
+    "mode": "L",
+    "size": [
+      4,
+      3
+    ]
+  },
+  "L_small_7x5_f3": {
+    "checksum": "06d1499a5dcd08d4211ae394c0d478d7",
+    "mode": "L",
+    "size": [
+      3,
+      2
+    ]
+  },
+  "L_small_7x5_f4": {
+    "checksum": "b97e2633338d974ec9dc71eddbc5542f",
+    "mode": "L",
+    "size": [
+      2,
+      2
+    ]
+  },
+  "L_small_7x5_f5": {
+    "checksum": "471f90b8d1d8b6bf3b7476ed839b6272",
+    "mode": "L",
+    "size": [
+      2,
+      1
+    ]
+  },
+  "RGB_mod3_2047x1536_f2": {
+    "checksum": "082a842ffbfcc3bd11798c9fd231ca92",
+    "mode": "RGB",
+    "size": [
+      1024,
+      768
+    ]
+  },
+  "RGB_mod3_2047x1536_f3": {
+    "checksum": "0b5f540d4bbfe4f8e5ccd9cd19410132",
+    "mode": "RGB",
+    "size": [
+      683,
+      512
+    ]
+  },
+  "RGB_mod3_2047x1536_f4": {
+    "checksum": "2fc794e8ede66d3a3c25afae5381f5ee",
+    "mode": "RGB",
+    "size": [
+      512,
+      384
+    ]
+  },
+  "RGB_mod3_2047x1536_f5": {
+    "checksum": "6f9af66a39cc814bc281a3ae1cc8aca4",
+    "mode": "RGB",
+    "size": [
+      410,
+      308
+    ]
+  },
+  "RGB_odd_1001x999_f2": {
+    "checksum": "406a024c03b21b41362f4327452562a1",
+    "mode": "RGB",
+    "size": [
+      501,
+      500
+    ]
+  },
+  "RGB_odd_1001x999_f3": {
+    "checksum": "5706b6cbdd164c775b1f17cabcd74a3f",
+    "mode": "RGB",
+    "size": [
+      334,
+      333
+    ]
+  },
+  "RGB_odd_1001x999_f4": {
+    "checksum": "f058ca2daf37e392f4eeb96f950d3cba",
+    "mode": "RGB",
+    "size": [
+      251,
+      250
+    ]
+  },
+  "RGB_odd_1001x999_f5": {
+    "checksum": "c94d764cefbfd6d612db4056996876f2",
+    "mode": "RGB",
+    "size": [
+      201,
+      200
+    ]
+  }
+}

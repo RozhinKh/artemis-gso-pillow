@@ -1,0 +1,226 @@
+{
+  "web_rgb_reduce_2": {
+    "size": [
+      5055,
+      2271
+    ],
+    "mode": "RGB",
+    "checksum": "f5cce280157f9dc740ae7fee00f98a30"
+  },
+  "web_rgb_reduce_3": {
+    "size": [
+      3370,
+      1514
+    ],
+    "mode": "RGB",
+    "checksum": "f42686c7941fdb1ffcfe7603da0fbdd8"
+  },
+  "web_rgb_reduce_4": {
+    "size": [
+      2528,
+      1136
+    ],
+    "mode": "RGB",
+    "checksum": "8314ce91df7e5a4631374e909e8680ab"
+  },
+  "web_rgb_reduce_5": {
+    "size": [
+      2022,
+      909
+    ],
+    "mode": "RGB",
+    "checksum": "23bfcdbf2e64ca364f98505f032d00a0"
+  },
+  "web_rgb_reduce_6": {
+    "size": [
+      1685,
+      757
+    ],
+    "mode": "RGB",
+    "checksum": "879d1edacddc53631882086f8b29b49c"
+  },
+  "web_rgb_reduce_7": {
+    "size": [
+      1445,
+      649
+    ],
+    "mode": "RGB",
+    "checksum": "21da2bca71711b6ba963a68cb749daf2"
+  },
+  "web_rgb_reduce_8": {
+    "size": [
+      1264,
+      568
+    ],
+    "mode": "RGB",
+    "checksum": "361047af12f267ac43814eddbb8efbba"
+  },
+  "synth_rgb_reduce_2": {
+    "size": [
+      768,
+      1024
+    ],
+    "mode": "RGB",
+    "checksum": "55ea4ac504fcaf380c5b3122bbabe8fe"
+  },
+  "synth_rgb_reduce_3": {
+    "size": [
+      512,
+      683
+    ],
+    "mode": "RGB",
+    "checksum": "6ad836a9472b02a0a62c580828e0d050"
+  },
+  "synth_rgb_reduce_4": {
+    "size": [
+      384,
+      512
+    ],
+    "mode": "RGB",
+    "checksum": "e8d0d2bf5966aaf3ba85161e1aeee23d"
+  },
+  "synth_rgb_reduce_5": {
+    "size": [
+      308,
+      410
+    ],
+    "mode": "RGB",
+    "checksum": "531d541c739e6c7eb36150d185b7ba91"
+  },
+  "synth_rgb_reduce_6": {
+    "size": [
+      256,
+      342
+    ],
+    "mode": "RGB",
+    "checksum": "33b767ea1b914f7d8b72bea9a2b5e803"
+  },
+  "synth_rgb_reduce_7": {
+    "size": [
+      220,
+      293
+    ],
+    "mode": "RGB",
+    "checksum": "297199b429b6c1fac76f2f46a4cbf87a"
+  },
+  "synth_rgb_reduce_8": {
+    "size": [
+      192,
+      256
+    ],
+    "mode": "RGB",
+    "checksum": "a5eae4f80628463170a1c3a2f37b01d7"
+  },
+  "synth_rgba_reduce_2": {
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "checksum": "5a256d9a4423374466a819ea3b5d069e"
+  },
+  "synth_rgba_reduce_3": {
+    "size": [
+      683,
+      683
+    ],
+    "mode": "RGBA",
+    "checksum": "54ce7b9eb41649c27166b0fcf0db507c"
+  },
+  "synth_rgba_reduce_4": {
+    "size": [
+      512,
+      512
+    ],
+    "mode": "RGBA",
+    "checksum": "c60c11222f02156ec856ba3d04a7fc5b"
+  },
+  "synth_rgba_reduce_5": {
+    "size": [
+      410,
+      410
+    ],
+    "mode": "RGBA",
+    "checksum": "cd55bbd27d7e320647911935c367c0aa"
+  },
+  "synth_rgba_reduce_6": {
+    "size": [
+      342,
+      342
+    ],
+    "mode": "RGBA",
+    "checksum": "599674db7c4b347dba859015bee0639e"
+  },
+  "synth_rgba_reduce_7": {
+    "size": [
+      293,
+      293
+    ],
+    "mode": "RGBA",
+    "checksum": "32e71d85b88c76dd629c9d30e1c2bfa2"
+  },
+  "synth_rgba_reduce_8": {
+    "size": [
+      256,
+      256
+    ],
+    "mode": "RGBA",
+    "checksum": "796b8104fd311b1f29988b069b4dac51"
+  },
+  "synth_la_reduce_2": {
+    "size": [
+      1024,
+      768
+    ],
+    "mode": "LA",
+    "checksum": "598ec442234a34f3f5d539b562d30497"
+  },
+  "synth_la_reduce_3": {
+    "size": [
+      683,
+      512
+    ],
+    "mode": "LA",
+    "checksum": "6e880bca7152461611fb28a659808ccd"
+  },
+  "synth_la_reduce_4": {
+    "size": [
+      512,
+      384
+    ],
+    "mode": "LA",
+    "checksum": "f92a21ef145d9894dcad7341f2fec13f"
+  },
+  "synth_la_reduce_5": {
+    "size": [
+      410,
+      308
+    ],
+    "mode": "LA",
+    "checksum": "c98b5986bc5e9f0a9f0ccd9495b59303"
+  },
+  "synth_la_reduce_6": {
+    "size": [
+      342,
+      256
+    ],
+    "mode": "LA",
+    "checksum": "4b19ea04ca0980b0b22ba45e0361d063"
+  },
+  "synth_la_reduce_7": {
+    "size": [
+      293,
+      220
+    ],
+    "mode": "LA",
+    "checksum": "85565cb29780aac3251a46456bea8d15"
+  },
+  "synth_la_reduce_8": {
+    "size": [
+      256,
+      192
+    ],
+    "mode": "LA",
+    "checksum": "92864c7f3016ed19de71e88fa069c629"
+  }
+}

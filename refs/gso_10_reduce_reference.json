@@ -1,0 +1,176 @@
+{
+  "image_0": {
+    "factor_2": {
+      "size": [
+        2048,
+        1537
+      ],
+      "mode": "RGB",
+      "checksum": "70832eee431900fe478abd25471121d4b8cfcdf4b957c50787075e72bd79a771"
+    },
+    "factor_3": {
+      "size": [
+        1365,
+        1025
+      ],
+      "mode": "RGB",
+      "checksum": "418e31f6a8703419ca7e6ac72fb1a3b04e3a9df816703d19396d8ec9d3aec2e2"
+    },
+    "factor_4": {
+      "size": [
+        1024,
+        769
+      ],
+      "mode": "RGB",
+      "checksum": "a5ff0947dfeecd2c5a7deafbae60f5ad2012e30558f95fc286871e0a15cc59d5"
+    },
+    "factor_5": {
+      "size": [
+        819,
+        615
+      ],
+      "mode": "RGB",
+      "checksum": "5dc7c85d14d8711a9e4a109117660a1658dbcc128b1ee6644728585c625a97fe"
+    },
+    "factor_7": {
+      "size": [
+        585,
+        439
+      ],
+      "mode": "RGB",
+      "checksum": "36538afc53aa181e8a127dc1f83d97efe2eb0042917c7ed270c94fe2de110e42"
+    },
+    "factor_8": {
+      "size": [
+        512,
+        385
+      ],
+      "mode": "RGB",
+      "checksum": "88d1b857d77c47e2669847089e6566e352e580d3ffe878625915dd0e6a19a09a"
+    },
+    "factor_11": {
+      "size": [
+        373,
+        280
+      ],
+      "mode": "RGB",
+      "checksum": "765a4f47cd8ba6ed44aeab019621d1765ed842fb7012136463cf559b5ecba988"
+    }
+  },
+  "image_1": {
+    "factor_2": {
+      "size": [
+        1501,
+        1003
+      ],
+      "mode": "RGBA",
+      "checksum": "00e4b7e3fdd59ddc0d4ab71d3b7850ad6339e992662ca74fccbf231293d48ec5"
+    },
+    "factor_3": {
+      "size": [
+        1001,
+        669
+      ],
+      "mode": "RGBA",
+      "checksum": "ffa726e1030fa75eb4115b95dc59bbe6c8fbb74a11a175647f6b1f2d7e23ae39"
+    },
+    "factor_4": {
+      "size": [
+        751,
+        502
+      ],
+      "mode": "RGBA",
+      "checksum": "8c67169db0bb24a9db7b36ab151f9ad02b6b7ae000562a43774a605a739401d1"
+    },
+    "factor_5": {
+      "size": [
+        601,
+        401
+      ],
+      "mode": "RGBA",
+      "checksum": "e5cc6d88e7b8d3861e4e0f0a89f80ddda6506c0bac48b514715aa0d66d7a0c1c"
+    },
+    "factor_7": {
+      "size": [
+        429,
+        287
+      ],
+      "mode": "RGBA",
+      "checksum": "bfea13cd5f48e16f9d82e6a169ae69e9893880a538881bd187915c4884766887"
+    },
+    "factor_8": {
+      "size": [
+        376,
+        251
+      ],
+      "mode": "RGBA",
+      "checksum": "96ad77a3966b17f7d65c4032d1af252de697200841cc911c1a74fd18d2e6dd73"
+    },
+    "factor_11": {
+      "size": [
+        273,
+        183
+      ],
+      "mode": "RGBA",
+      "checksum": "f5f9ce4f0d123ec19a4cab36f5d56e4730345f800dd042354086a3843af9f09b"
+    }
+  },
+  "image_2": {
+    "factor_2": {
+      "size": [
+        1251,
+        904
+      ],
+      "mode": "L",
+      "checksum": "95f8d99456d7772e255474e0b1602141f8b24c4e5621c41d25bb442057188358"
+    },
+    "factor_3": {
+      "size": [
+        834,
+        603
+      ],
+      "mode": "L",
+      "checksum": "16f82c80f0616c613931154754b9b71025cf848131280657d3bacbafe2e73be4"
+    },
+    "factor_4": {
+      "size": [
+        626,
+        452
+      ],
+      "mode": "L",
+      "checksum": "0dfb6a5f9a47207a24a0ed47707bee6b44773c9217e37ef2b3966996318b791d"
+    },
+    "factor_5": {
+      "size": [
+        501,
+        362
+      ],
+      "mode": "L",
+      "checksum": "b828472f41e457760593447c7af1e5b91fa7b8cd1c27ee755e7a453c03f42e4d"
+    },
+    "factor_7": {
+      "size": [
+        358,
+        259
+      ],
+      "mode": "L",
+      "checksum": "b9eea1212cf1b585dd02d2d42c928259f1e6e90a9a261bded9634e17ba334f4a"
+    },
+    "factor_8": {
+      "size": [
+        313,
+        226
+      ],
+      "mode": "L",
+      "checksum": "04216068d156e30a61ec72af3063a044d39eba46af41444607ff9f02c29fab3e"
+    },
+    "factor_11": {
+      "size": [
+        228,
+        165
+      ],
+      "mode": "L",
+      "checksum": "fa2eb807518e355485d5f40d949e71094854579b6439ccbb282a8a9fca0549c6"
+    }
+  }
+}

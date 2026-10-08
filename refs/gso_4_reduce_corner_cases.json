@@ -1,0 +1,146 @@
+{
+  "L_f1x5_box3_35_813_442": {
+    "checksum": "42c91f4733cbaa484686379a953c97d5",
+    "mode": "L",
+    "size": [
+      810,
+      82
+    ]
+  },
+  "L_f2x2_box3_35_813_442": {
+    "checksum": "c6856f8a15dbe5f3f2ede6ccb1eca77f",
+    "mode": "L",
+    "size": [
+      405,
+      204
+    ]
+  },
+  "L_f3x1_box3_35_813_442": {
+    "checksum": "d8778597d9130366905a4f718b6cf261",
+    "mode": "L",
+    "size": [
+      270,
+      407
+    ]
+  },
+  "L_f4x3_box3_35_813_442": {
+    "checksum": "bafeaaba2977a09bbb7a2ddbf2976860",
+    "mode": "L",
+    "size": [
+      203,
+      136
+    ]
+  },
+  "L_f5x2_box3_35_813_442": {
+    "checksum": "b1e1e0b8bf01f263ba38c45515b73bc7",
+    "mode": "L",
+    "size": [
+      162,
+      204
+    ]
+  },
+  "L_f7x5_box3_35_813_442": {
+    "checksum": "55b57e10ab5b49438094e7fcb1ee7890",
+    "mode": "L",
+    "size": [
+      116,
+      82
+    ]
+  },
+  "RGBA_f1x5_box75_54_571_337": {
+    "checksum": "c6727147eaa88eca70f9c4993e3529e7",
+    "mode": "RGBA",
+    "size": [
+      496,
+      57
+    ]
+  },
+  "RGBA_f2x2_box75_54_571_337": {
+    "checksum": "29f2383df1d7fb2d75f82309248cb380",
+    "mode": "RGBA",
+    "size": [
+      248,
+      142
+    ]
+  },
+  "RGBA_f3x1_box75_54_571_337": {
+    "checksum": "86651c0a24aa2a44a8754cc26696c70f",
+    "mode": "RGBA",
+    "size": [
+      166,
+      283
+    ]
+  },
+  "RGBA_f4x3_box75_54_571_337": {
+    "checksum": "f9f68e8e7117d1737561a7ddd11cf2b2",
+    "mode": "RGBA",
+    "size": [
+      124,
+      95
+    ]
+  },
+  "RGBA_f5x2_box75_54_571_337": {
+    "checksum": "d1f27f9fcdf378b151e95fa1877c4c33",
+    "mode": "RGBA",
+    "size": [
+      100,
+      142
+    ]
+  },
+  "RGBA_f7x5_box75_54_571_337": {
+    "checksum": "55c613034696fa9c1eff48005d7eee32",
+    "mode": "RGBA",
+    "size": [
+      71,
+      57
+    ]
+  },
+  "RGB_f1x5_box13_86_814_944": {
+    "checksum": "58589b424d5fe54bb544224b4d40aed9",
+    "mode": "RGB",
+    "size": [
+      801,
+      172
+    ]
+  },
+  "RGB_f2x2_box13_86_814_944": {
+    "checksum": "d1638b2db3cbaad307db53b883ae678a",
+    "mode": "RGB",
+    "size": [
+      401,
+      429
+    ]
+  },
+  "RGB_f3x1_box13_86_814_944": {
+    "checksum": "d9e3f96a22cf52702820cff19839ec47",
+    "mode": "RGB",
+    "size": [
+      267,
+      858
+    ]
+  },
+  "RGB_f4x3_box13_86_814_944": {
+    "checksum": "9734e12b8805d9b1d6ad09d547a609a1",
+    "mode": "RGB",
+    "size": [
+      201,
+      286
+    ]
+  },
+  "RGB_f5x2_box13_86_814_944": {
+    "checksum": "7442550123edc6e908aa76f943782d6e",
+    "mode": "RGB",
+    "size": [
+      161,
+      429
+    ]
+  },
+  "RGB_f7x5_box13_86_814_944": {
+    "checksum": "5936fbed7d1747ae43bdb4128a60b131",
+    "mode": "RGB",
+    "size": [
+      115,
+      172
+    ]
+  }
+}

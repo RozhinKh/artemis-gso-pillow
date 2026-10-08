@@ -1,0 +1,512 @@
+{
+  "RGB_full_2": {
+    "size": [
+      5055,
+      2271
+    ],
+    "mode": "RGB",
+    "checksum": "273c646c04c29eeab757d7e2f628e48c",
+    "box": null
+  },
+  "RGB_box_2_0": {
+    "size": [
+      3262,
+      1618
+    ],
+    "mode": "RGB",
+    "checksum": "026f5f727af5ecafecae64fa55688209",
+    "box": [
+      165,
+      530,
+      6689,
+      3766
+    ]
+  },
+  "RGB_box_2_1": {
+    "size": [
+      3779,
+      1752
+    ],
+    "mode": "RGB",
+    "checksum": "a9e35c7a9b2629d7bdc284873adb14f4",
+    "box": [
+      1658,
+      621,
+      9215,
+      4125
+    ]
+  },
+  "RGB_box_2_2": {
+    "size": [
+      3637,
+      1490
+    ],
+    "mode": "RGB",
+    "checksum": "b553e0b13110fa2c9f370a3996db0316",
+    "box": [
+      2389,
+      447,
+      9662,
+      3427
+    ]
+  },
+  "RGB_full_3": {
+    "size": [
+      3370,
+      1514
+    ],
+    "mode": "RGB",
+    "checksum": "69ef803df5083f5dc9a65d7faabba154",
+    "box": null
+  },
+  "RGB_box_3_0": {
+    "size": [
+      2501,
+      695
+    ],
+    "mode": "RGB",
+    "checksum": "265cf3f2f8ad9685ce01c0c4639ca5e6",
+    "box": [
+      1154,
+      572,
+      8657,
+      2656
+    ]
+  },
+  "RGB_box_3_1": {
+    "size": [
+      3187,
+      634
+    ],
+    "mode": "RGB",
+    "checksum": "ac4629316e18b494b968f094b997be92",
+    "box": [
+      256,
+      2181,
+      9816,
+      4083
+    ]
+  },
+  "RGB_box_3_2": {
+    "size": [
+      3049,
+      1327
+    ],
+    "mode": "RGB",
+    "checksum": "0fa9836de9b10a0c204d1e03d01f65e4",
+    "box": [
+      923,
+      150,
+      10068,
+      4129
+    ]
+  },
+  "RGB_full_4": {
+    "size": [
+      2528,
+      1136
+    ],
+    "mode": "RGB",
+    "checksum": "292b101461707e8bb73f26f1857f4522",
+    "box": null
+  },
+  "RGB_box_4_0": {
+    "size": [
+      1478,
+      480
+    ],
+    "mode": "RGB",
+    "checksum": "8bf3df0859382fe25e35a59e3967737f",
+    "box": [
+      604,
+      1352,
+      6513,
+      3270
+    ]
+  },
+  "RGB_box_4_1": {
+    "size": [
+      1809,
+      952
+    ],
+    "mode": "RGB",
+    "checksum": "71a20de0d33718e76e518238015318a2",
+    "box": [
+      412,
+      362,
+      7648,
+      4168
+    ]
+  },
+  "RGB_box_4_2": {
+    "size": [
+      1732,
+      703
+    ],
+    "mode": "RGB",
+    "checksum": "b5a8ed30e72d855108eecc021e9f6d00",
+    "box": [
+      2502,
+      1311,
+      9427,
+      4120
+    ]
+  },
+  "RGB_full_5": {
+    "size": [
+      2022,
+      909
+    ],
+    "mode": "RGB",
+    "checksum": "9b8dbdfe3e51ceba9fdca4fcf2f608ec",
+    "box": null
+  },
+  "RGB_box_5_0": {
+    "size": [
+      1009,
+      756
+    ],
+    "mode": "RGB",
+    "checksum": "0b346ec24458fcac9d94bc1bd5a3e23c",
+    "box": [
+      3907,
+      453,
+      8951,
+      4230
+    ]
+  },
+  "RGB_box_5_1": {
+    "size": [
+      1528,
+      516
+    ],
+    "mode": "RGB",
+    "checksum": "1b38980e0e21a3e021b74e3352317d50",
+    "box": [
+      255,
+      1648,
+      7894,
+      4228
+    ]
+  },
+  "RGB_box_5_2": {
+    "size": [
+      1573,
+      315
+    ],
+    "mode": "RGB",
+    "checksum": "e905eacab8fb2e42bc514849b00c37ea",
+    "box": [
+      382,
+      2947,
+      8245,
+      4518
+    ]
+  },
+  "RGB_full_7": {
+    "size": [
+      1445,
+      649
+    ],
+    "mode": "RGB",
+    "checksum": "773bb6fb1bb3bea71771405f0b40ab28",
+    "box": null
+  },
+  "RGB_box_7_0": {
+    "size": [
+      948,
+      632
+    ],
+    "mode": "RGB",
+    "checksum": "18ae5e5c8cd918d70c270ba67dee8e16",
+    "box": [
+      3378,
+      100,
+      10014,
+      4523
+    ]
+  },
+  "RGB_box_7_1": {
+    "size": [
+      1264,
+      583
+    ],
+    "mode": "RGB",
+    "checksum": "6a7228a8bb68d162661591e7e23ce5cd",
+    "box": [
+      2,
+      313,
+      8844,
+      4388
+    ]
+  },
+  "RGB_box_7_2": {
+    "size": [
+      1059,
+      412
+    ],
+    "mode": "RGB",
+    "checksum": "d6600e4ba054c6e093c87f26d92e0e79",
+    "box": [
+      999,
+      1495,
+      8411,
+      4373
+    ]
+  },
+  "RGBA_full_2": {
+    "size": [
+      5055,
+      2271
+    ],
+    "mode": "RGBA",
+    "checksum": "1c9072d726b87b3341f6164d960013ff",
+    "box": null
+  },
+  "RGBA_box_2_0": {
+    "size": [
+      3017,
+      2198
+    ],
+    "mode": "RGBA",
+    "checksum": "95ff677b5c49c2eb1e12dffa533bb5ec",
+    "box": [
+      3565,
+      16,
+      9598,
+      4412
+    ]
+  },
+  "RGBA_box_2_1": {
+    "size": [
+      2467,
+      1919
+    ],
+    "mode": "RGBA",
+    "checksum": "b44367af879535e9f1e5f0e70edd216d",
+    "box": [
+      1816,
+      244,
+      6750,
+      4082
+    ]
+  },
+  "RGBA_box_2_2": {
+    "size": [
+      4975,
+      1049
+    ],
+    "mode": "RGBA",
+    "checksum": "b3891dcd6a79b2c97326c1a6b521e9f0",
+    "box": [
+      139,
+      1834,
+      10089,
+      3931
+    ]
+  },
+  "RGBA_full_3": {
+    "size": [
+      3370,
+      1514
+    ],
+    "mode": "RGBA",
+    "checksum": "395581b1a9eb18e913edbb67b9d0e7a9",
+    "box": null
+  },
+  "RGBA_box_3_0": {
+    "size": [
+      1372,
+      615
+    ],
+    "mode": "RGBA",
+    "checksum": "0ea3606ec500eba74c4eddcaf9a981ae",
+    "box": [
+      2621,
+      2080,
+      6737,
+      3923
+    ]
+  },
+  "RGBA_box_3_1": {
+    "size": [
+      2459,
+      654
+    ],
+    "mode": "RGBA",
+    "checksum": "834a3e00acf6c3328e578026005fe32e",
+    "box": [
+      1234,
+      2257,
+      8611,
+      4217
+    ]
+  },
+  "RGBA_box_3_2": {
+    "size": [
+      1918,
+      1470
+    ],
+    "mode": "RGBA",
+    "checksum": "9e70720d2b9eb75565b8e00d86bc657f",
+    "box": [
+      1022,
+      85,
+      6775,
+      4493
+    ]
+  },
+  "RGBA_full_4": {
+    "size": [
+      2528,
+      1136
+    ],
+    "mode": "RGBA",
+    "checksum": "ca879870e4c72fb68757f9c2ce7978d2",
+    "box": null
+  },
+  "RGBA_box_4_0": {
+    "size": [
+      2511,
+      932
+    ],
+    "mode": "RGBA",
+    "checksum": "ebba242595b455bfb7419c0528c09990",
+    "box": [
+      26,
+      617,
+      10067,
+      4344
+    ]
+  },
+  "RGBA_box_4_1": {
+    "size": [
+      1963,
+      980
+    ],
+    "mode": "RGBA",
+    "checksum": "bcbc54fade495586b07a8909c44e3275",
+    "box": [
+      1178,
+      455,
+      9029,
+      4375
+    ]
+  },
+  "RGBA_box_4_2": {
+    "size": [
+      1030,
+      989
+    ],
+    "mode": "RGBA",
+    "checksum": "4601e13c60af3093a1a83e644148a6f6",
+    "box": [
+      3153,
+      324,
+      7272,
+      4280
+    ]
+  },
+  "RGBA_full_5": {
+    "size": [
+      2022,
+      909
+    ],
+    "mode": "RGBA",
+    "checksum": "cf965581094e1a4b4d190ec97c48cdf8",
+    "box": null
+  },
+  "RGBA_box_5_0": {
+    "size": [
+      1617,
+      501
+    ],
+    "mode": "RGBA",
+    "checksum": "9b161650789f47a96799b75a463d4d20",
+    "box": [
+      594,
+      376,
+      8678,
+      2881
+    ]
+  },
+  "RGBA_box_5_1": {
+    "size": [
+      984,
+      456
+    ],
+    "mode": "RGBA",
+    "checksum": "c70757ffc591e120eb8226e8ffe28627",
+    "box": [
+      270,
+      1065,
+      5190,
+      3343
+    ]
+  },
+  "RGBA_box_5_2": {
+    "size": [
+      1455,
+      360
+    ],
+    "mode": "RGBA",
+    "checksum": "cd6c0fcc8da1ef17ebcfe646b5cee59d",
+    "box": [
+      367,
+      533,
+      7639,
+      2329
+    ]
+  },
+  "RGBA_full_7": {
+    "size": [
+      1445,
+      649
+    ],
+    "mode": "RGBA",
+    "checksum": "ed1185b5d6b193a579e70477b4c6088d",
+    "box": null
+  },
+  "RGBA_box_7_0": {
+    "size": [
+      657,
+      239
+    ],
+    "mode": "RGBA",
+    "checksum": "409274ba2ff128c9076a488064ff2321",
+    "box": [
+      657,
+      2864,
+      5251,
+      4536
+    ]
+  },
+  "RGBA_box_7_1": {
+    "size": [
+      1114,
+      617
+    ],
+    "mode": "RGBA",
+    "checksum": "bf18fb7458df890c843ac6caa5d0e5ce",
+    "box": [
+      1602,
+      214,
+      9399,
+      4527
+    ]
+  },
+  "RGBA_box_7_2": {
+    "size": [
+      1307,
+      524
+    ],
+    "mode": "RGBA",
+    "checksum": "08e919d2492633ca403dcbf1505da766",
+    "box": [
+      282,
+      534,
+      9428,
+      4196
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "L_1023x769_f2": {
+    "mode": "L",
+    "size": [
+      512,
+      385
+    ],
+    "checksum": "485d190d9b898261943bf129de2f109b"
+  },
+  "L_1023x769_f3": {
+    "mode": "L",
+    "size": [
+      341,
+      257
+    ],
+    "checksum": "5da4224813a7c73c62d081d4adc06f81"
+  },
+  "L_1023x769_f5": {
+    "mode": "L",
+    "size": [
+      205,
+      154
+    ],
+    "checksum": "4402b1a8b53809194cbe7adc585ad51c"
+  },
+  "L_1023x769_f7": {
+    "mode": "L",
+    "size": [
+      147,
+      110
+    ],
+    "checksum": "5d4e443acf0473b718d93c206ae099e2"
+  },
+  "RGB_2048x1536_f2": {
+    "mode": "RGB",
+    "size": [
+      1024,
+      768
+    ],
+    "checksum": "04c14d4a92d5d6f982ff2376aa489dd9"
+  },
+  "RGB_2048x1536_f3": {
+    "mode": "RGB",
+    "size": [
+      683,
+      512
+    ],
+    "checksum": "b438bce600283c7406eedffc2203c94b"
+  },
+  "RGB_2048x1536_f5": {
+    "mode": "RGB",
+    "size": [
+      410,
+      308
+    ],
+    "checksum": "4750120a6965c4de94c30d829728bd3d"
+  },
+  "RGB_2048x1536_f7": {
+    "mode": "RGB",
+    "size": [
+      293,
+      220
+    ],
+    "checksum": "91348d2fc260f46ab4800a00ee3500ca"
+  },
+  "RGBA_1001x1000_f2": {
+    "mode": "RGBA",
+    "size": [
+      501,
+      500
+    ],
+    "checksum": "9859adaf85d047efa08d446835b42d45"
+  },
+  "RGBA_1001x1000_f3": {
+    "mode": "RGBA",
+    "size": [
+      334,
+      334
+    ],
+    "checksum": "1807b4d6557a2ff8798d6461a8cd8096"
+  },
+  "RGBA_1001x1000_f5": {
+    "mode": "RGBA",
+    "size": [
+      201,
+      200
+    ],
+    "checksum": "89c3913d4ca18af0d9c009a8b1adcd87"
+  },
+  "RGBA_1001x1000_f7": {
+    "mode": "RGBA",
+    "size": [
+      143,
+      143
+    ],
+    "checksum": "bfbcccffd8daeb7957ae684d2174ac9a"
+  }
+}

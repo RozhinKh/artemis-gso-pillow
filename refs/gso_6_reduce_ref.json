@@ -1,0 +1,130 @@
+{
+  "img0_RGB_f2": {
+    "size": [
+      5055,
+      2271
+    ],
+    "mode": "RGB",
+    "checksum": "946dc569ec6014d56d740ebed6be95b189662fa5e882bcd362df421ef203be90"
+  },
+  "img0_RGB_f3": {
+    "size": [
+      3370,
+      1514
+    ],
+    "mode": "RGB",
+    "checksum": "d0deaea83cec8d8d20585e5d63451e646656c8336e91804e0ebbcb813bcf1f93"
+  },
+  "img0_RGB_f5": {
+    "size": [
+      2022,
+      909
+    ],
+    "mode": "RGB",
+    "checksum": "97278138f08d0d175f8c93278de09a6cb0414eff22ccb50c1d672f3eadbb6dc2"
+  },
+  "img0_RGB_f7": {
+    "size": [
+      1445,
+      649
+    ],
+    "mode": "RGB",
+    "checksum": "c68ca15a02d64e9be2192b6a2360775c507feedd9de20888d0ece467445b7936"
+  },
+  "img0_RGB_f16": {
+    "size": [
+      632,
+      284
+    ],
+    "mode": "RGB",
+    "checksum": "b59c28b84575d4537407c27ffff293209ecba583a3a53fa77de195930405da3f"
+  },
+  "img1_RGBA_f2": {
+    "size": [
+      1025,
+      769
+    ],
+    "mode": "RGBA",
+    "checksum": "41998335802d2ff75f104e9ddc847d4e6e6d6d24599476ae7f6655112159d6a2"
+  },
+  "img1_RGBA_f3": {
+    "size": [
+      683,
+      513
+    ],
+    "mode": "RGBA",
+    "checksum": "0839732e18ffe5548c486504437f8b6187f212bb540518f541ae564c7e309de4"
+  },
+  "img1_RGBA_f5": {
+    "size": [
+      410,
+      308
+    ],
+    "mode": "RGBA",
+    "checksum": "70bffcb72f3a28dbd5cbb62eff8f8eab74a4f7d6cf644f4bdd8741ad167bc213"
+  },
+  "img1_RGBA_f7": {
+    "size": [
+      293,
+      220
+    ],
+    "mode": "RGBA",
+    "checksum": "00d02febd2df8ab3a68f2b7591e2ef4f1927b946ea170bdb067000b5942e6795"
+  },
+  "img1_RGBA_f16": {
+    "size": [
+      129,
+      97
+    ],
+    "mode": "RGBA",
+    "checksum": "3d8389eb442be2b80d1ccbda61a48bd6057112db3baed45994f55641549bdd3d"
+  },
+  "img2_L_f2": {
+    "size": [
+      385,
+      513
+    ],
+    "mode": "L",
+    "checksum": "6a42a51efd9fe1eed6e92d2907c90811dd9e129fbebfa5a6bf892a81bf9ae8b4"
+  },
+  "img2_L_f3": {
+    "size": [
+      257,
+      342
+    ],
+    "mode": "L",
+    "checksum": "5753fb11ba12eb9d7100ed755e178548c5dbc9209fc26bd8e3a7647934331f01"
+  },
+  "img2_L_f5": {
+    "size": [
+      154,
+      205
+    ],
+    "mode": "L",
+    "checksum": "08b623fe743d42f343aade74bca984aeb130cbd9af7010ee790af7826dbe9b9b"
+  },
+  "img2_L_f7": {
+    "size": [
+      110,
+      147
+    ],
+    "mode": "L",
+    "checksum": "b87a56574cf57512648a7e17660474ce9a2f0ba6e4cf6d11b54418260e726fc0"
+  },
+  "img2_L_f16": {
+    "size": [
+      49,
+      65
+    ],
+    "mode": "L",
+    "checksum": "12e791c5f6522cac6fc95d96626528fb010a5b79c1dc6b456e84b29910757308"
+  },
+  "convertedL_f8": {
+    "size": [
+      1264,
+      568
+    ],
+    "mode": "L",
+    "checksum": "cce0e195601298f32651986d2a9681beb8eb2885360d031ce4cfbaad8c3434a3"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "reduce_2": {
+    "size": [
+      5055,
+      2271
+    ],
+    "mode": "RGB",
+    "checksum": "f5cce280157f9dc740ae7fee00f98a30"
+  },
+  "reduce_3": {
+    "size": [
+      3370,
+      1514
+    ],
+    "mode": "RGB",
+    "checksum": "f42686c7941fdb1ffcfe7603da0fbdd8"
+  },
+  "reduce_4": {
+    "size": [
+      2528,
+      1136
+    ],
+    "mode": "RGB",
+    "checksum": "8314ce91df7e5a4631374e909e8680ab"
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "L_1025x769_f1": {
+    "checksum": "24b621787279fab540c68c67a15f9dfe",
+    "mode": "L",
+    "size": [
+      1025,
+      769
+    ]
+  },
+  "L_1025x769_f16": {
+    "checksum": "d593df5237ee1e160bdf280765e1695d",
+    "mode": "L",
+    "size": [
+      65,
+      49
+    ]
+  },
+  "L_1025x769_f2": {
+    "checksum": "cb5598c4984b3f12d46e65df6d05e01c",
+    "mode": "L",
+    "size": [
+      513,
+      385
+    ]
+  },
+  "L_1025x769_f3": {
+    "checksum": "5cde8fa5506531c1b00fed22aa0ee820",
+    "mode": "L",
+    "size": [
+      342,
+      257
+    ]
+  },
+  "L_1025x769_f4": {
+    "checksum": "5062536757d27dc2635660da2a86fa79",
+    "mode": "L",
+    "size": [
+      257,
+      193
+    ]
+  },
+  "L_1025x769_f5": {
+    "checksum": "07ad8e544ef087251d62716265c23612",
+    "mode": "L",
+    "size": [
+      205,
+      154
+    ]
+  },
+  "L_1025x769_f6": {
+    "checksum": "968b1fb71a644040233ee9996121d76b",
+    "mode": "L",
+    "size": [
+      171,
+      129
+    ]
+  },
+  "L_1025x769_f7": {
+    "checksum": "98956c26d0a78818c14a4d7ad9ce5e63",
+    "mode": "L",
+    "size": [
+      147,
+      110
+    ]
+  },
+  "L_1025x769_f8": {
+    "checksum": "8c9561f2cc4226c0e15f1dc5b7d72304",
+    "mode": "L",
+    "size": [
+      129,
+      97
+    ]
+  },
+  "RGBA_2025x1537_f1": {
+    "checksum": "83b31bb1fde168bae971a64d5cb3fc60",
+    "mode": "RGBA",
+    "size": [
+      2025,
+      1537
+    ]
+  },
+  "RGBA_2025x1537_f16": {
+    "checksum": "25bf42e5e3831cc2ea46af788d194c7b",
+    "mode": "RGBA",
+    "size": [
+      127,
+      97
+    ]
+  },
+  "RGBA_2025x1537_f2": {
+    "checksum": "86244ce4873a9fb9318770041bee8f26",
+    "mode": "RGBA",
+    "size": [
+      1013,
+      769
+    ]
+  },
+  "RGBA_2025x1537_f3": {
+    "checksum": "e1d791d12c7d0832cbef37e5ee919ee6",
+    "mode": "RGBA",
+    "size": [
+      675,
+      513
+    ]
+  },
+  "RGBA_2025x1537_f4": {
+    "checksum": "866a3719d5b7e4ebcdccb3ec5e380c58",
+    "mode": "RGBA",
+    "size": [
+      507,
+      385
+    ]
+  },
+  "RGBA_2025x1537_f5": {
+    "checksum": "28c1e4005361c7bb8fe4ddd887a5cecc",
+    "mode": "RGBA",
+    "size": [
+      405,
+      308
+    ]
+  },
+  "RGBA_2025x1537_f6": {
+    "checksum": "fa5cf57d8c197e609d81ff3e527377bf",
+    "mode": "RGBA",
+    "size": [
+      338,
+      257
+    ]
+  },
+  "RGBA_2025x1537_f7": {
+    "checksum": "5a4bbbc3707466b0662099053f799446",
+    "mode": "RGBA",
+    "size": [
+      290,
+      220
+    ]
+  },
+  "RGBA_2025x1537_f8": {
+    "checksum": "1f8ce61cb978baf9c615ba1ca1bad27f",
+    "mode": "RGBA",
+    "size": [
+      254,
+      193
+    ]
+  },
+  "RGB_1024x768_f1": {
+    "checksum": "33a6f3b69714c9ec2bc3fd895ade03d1",
+    "mode": "RGB",
+    "size": [
+      1024,
+      768
+    ]
+  },
+  "RGB_1024x768_f16": {
+    "checksum": "d5da0c4abe1134bb212e9475ca932e06",
+    "mode": "RGB",
+    "size": [
+      64,
+      48
+    ]
+  },
+  "RGB_1024x768_f2": {
+    "checksum": "9be64015ca90b666d2fe755f87aa36fa",
+    "mode": "RGB",
+    "size": [
+      512,
+      384
+    ]
+  },
+  "RGB_1024x768_f3": {
+    "checksum": "00f89d71a643ea292490901cc18b2988",
+    "mode": "RGB",
+    "size": [
+      342,
+      256
+    ]
+  },
+  "RGB_1024x768_f4": {
+    "checksum": "d654c1a7762f7284bb8341f1b1a3d97a",
+    "mode": "RGB",
+    "size": [
+      256,
+      192
+    ]
+  },
+  "RGB_1024x768_f5": {
+    "checksum": "b5faf15253fb295d4270ed2b65a5ca1f",
+    "mode": "RGB",
+    "size": [
+      205,
+      154
+    ]
+  },
+  "RGB_1024x768_f6": {
+    "checksum": "4790cb8714abbc32c03289dfa67ff7b6",
+    "mode": "RGB",
+    "size": [
+      171,
+      128
+    ]
+  },
+  "RGB_1024x768_f7": {
+    "checksum": "4a7726dea09acefff409e506542435b2",
+    "mode": "RGB",
+    "size": [
+      147,
+      110
+    ]
+  },
+  "RGB_1024x768_f8": {
+    "checksum": "d17daa308d0a0b361e284922fc59a0fc",
+    "mode": "RGB",
+    "size": [
+      128,
+      96
+    ]
+  },
+  "RGB_2000x1500_f1": {
+    "checksum": "acc9b73fc80ab8af2e6b1165eb8ca92f",
+    "mode": "RGB",
+    "size": [
+      2000,
+      1500
+    ]
+  },
+  "RGB_2000x1500_f16": {
+    "checksum": "6debbb7ad562f0fc799542afac42b9b1",
+    "mode": "RGB",
+    "size": [
+      125,
+      94
+    ]
+  },
+  "RGB_2000x1500_f2": {
+    "checksum": "3d43fd5b5c86793a892f583d79c00218",
+    "mode": "RGB",
+    "size": [
+      1000,
+      750
+    ]
+  },
+  "RGB_2000x1500_f3": {
+    "checksum": "ca35d646ada43da2100acecab714290e",
+    "mode": "RGB",
+    "size": [
+      667,
+      500
+    ]
+  },
+  "RGB_2000x1500_f4": {
+    "checksum": "4d64cc43c4790e8cf6a97187c050303e",
+    "mode": "RGB",
+    "size": [
+      500,
+      375
+    ]
+  },
+  "RGB_2000x1500_f5": {
+    "checksum": "7fa52184464297c115aafbd591ecde2d",
+    "mode": "RGB",
+    "size": [
+      400,
+      300
+    ]
+  },
+  "RGB_2000x1500_f6": {
+    "checksum": "e6545dc846e9112abe6c18740d5075e4",
+    "mode": "RGB",
+    "size": [
+      334,
+      250
+    ]
+  },
+  "RGB_2000x1500_f7": {
+    "checksum": "eea8ac333b42f82382037b02eafe3988",
+    "mode": "RGB",
+    "size": [
+      286,
+      215
+    ]
+  },
+  "RGB_2000x1500_f8": {
+    "checksum": "575e27afdf9003958bf6ad895e9c8439",
+    "mode": "RGB",
+    "size": [
+      250,
+      188
+    ]
+  }
+}
